@@ -27,5 +27,15 @@
 		"requiredResource": "Cattle",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Halberdier",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 80,
+		"obsoleteTech": "Metallurgy",
+		"requiredTech": "Civil Service",
+		"uniques": ["[+60]% Strength <vs [Mounted] units>"]
 	}
 ]

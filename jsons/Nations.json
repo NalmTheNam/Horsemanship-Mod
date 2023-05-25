@@ -53,7 +53,11 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Pikeman Legion",
-		"uniques": ["May buy [Pikeman] units for [10] [Culture] [in all cities] at an increasing price ([10])"],
-		"cities": ["Gralpika", "Cavde"]
+		"uniques": [
+			"[Production] cost of purchasing [Pikeman] units [-20]%",
+			"May buy [Pikeman] units for [3] [Culture] [in all cities] at an increasing price ([2])",
+			"Receive free [Pikeman] when you discover [Civil Service]"
+		],
+		"cities": ["Gralpika", "Cavde", "Spearpika"]
 	}
 ]

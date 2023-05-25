@@ -33,7 +33,7 @@
 		"name": "Pika",
 		"leaderName": "Great Mosapika",
 		"adjective": ["Pikian"],
-		"startBias": ["Hills"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",

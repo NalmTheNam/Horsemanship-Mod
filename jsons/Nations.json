@@ -27,6 +27,33 @@
 "[+1 Production] [in all coastal cities]", "[+1 Production] from every specialist [in capital]", "Cannot build [Spearman] units",
 "Cannot build [Pikeman] units", "Double quantity of [Horses] produced"],
 		"cities": ["Horsepolis", "Horsila", "Horhors", "Horslama", "Husban"],
-        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+        "spyNames": ["Horse Watcher"]
+	},
+	{
+		"name": "Pika",
+		"leaderName": "Great Mosapika",
+		"adjective": ["Pikian"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The Great Mosapika stands against you!",
+		"attacked": "If you were Horsia, I would have defeated you.",
+		"defeated": "How can the horses defeat me?!",
+		"introduction": "Hello! I am Great Mosapika, also known as 'The Anti-Cavalry Man'!",
+
+		"neutralHello": "Hello!",
+		"hateHello": "Hello.",
+
+		"tradeRequest": "I think this trade is fair for you and us.",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Pikeman Legion",
+		"uniques": ["May buy [Pikeman] units for [10] [Culture] [in all cities] at an increasing price ([10])"],
+		"cities": ["Gralpika", "Cavde"]
 	}
 ]

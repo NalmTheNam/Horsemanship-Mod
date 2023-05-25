@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Cattle",
+		"resourceType": "Strategic",
+		"revealedBy": "Animal Husbandry",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"production": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"production": 1},
+		"uniques": ["Guaranteed with Strategic Balance resource option",
+					"Generated on every [5] tiles <in [Featureless] [Grassland] tiles>"],
+		"majorDepositAmount": {"sparse": 3, "default": 5, "abundant": 7},
+		"minorDepositAmount": {"sparse": 1, "default": 3, "abundant": 4}
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Horsia",
+		"leaderName": "Horsia Alexander II",
+		"adjective": ["Horsian"],
+		"startBias": ["Coast", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The horses are very angry at you. I have no choice but to declare war at you.",
+		"attacked": "The horses will kick you!",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Greetings! Do you have a few horses?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Hello...?",
+
+		"tradeRequest": "I'll give you horses in the future if you accept this trade.",
+
+		"outerColor": [143, 94, 78],
+		"innerColor": [53, 18, 6],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Horseback Production",
+		"uniques": ["Starts with [Horseback Riding]", "Starts with [Animal Husbandry]", "[+2 Production] [in capital]", 
+"[+1 Production] [in all coastal cities]", "[+1 Production] from every specialist [in capital]", "Cannot build [Spearman] units",
+"Cannot build [Pikeman] units", "Double quantity of [Horses] produced"],
+		"cities": ["Horsepolis", "Horsila", "Horhors", "Horslama", "Husban"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	}
+]

@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Cowman",
+		"replaces": "Warrior",
+		"uniqueTo": "Horsia",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 4,
+		"cost": 25,
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Horseman",
+		"uniques": ["May upgrade to [Warrior] through ruins-like effects", "May withdraw before melee ([80]%)"],
+		"attackSound": "nonmetalhit",
+        	"civilopediaText": [
+			{"text": "This is your basic, non-horseman unit. Has 3 MP."}
+		]
+	},
+	{
+		"name": "Cattleman",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 9,
+		"cost": 45,
+		"upgradesTo": "Horseman",
+		"obsoleteTech": "Chivalry",
+		"requiredTech": "Cattle Riding",
+		"requiredResource": "Cattle",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	}
+]

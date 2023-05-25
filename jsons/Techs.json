@@ -1,0 +1,19 @@
+[
+	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 55,
+		"buildingCost": 75,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Cattle Riding",
+				"row": 4,
+				"prerequisites": [
+					"Animal Husbandry"
+				],
+				"quote": "'Cattle: Used as a catch-all to cows and bulls' - Nam"
+			}
+		]
+	}
+]

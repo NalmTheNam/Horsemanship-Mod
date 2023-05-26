@@ -1,6 +1,6 @@
 [
 	{
 		"name": "[Raider Catapult] ability",
-		"uniques": ["May capture killed [Catapult] units"]
+		"uniques": ["May capture killed [Catapult] units", "[+40]% Strength <when adjacent to a [Raider Catapult] unit>"]
 	}
 ]

@@ -49,7 +49,8 @@
 		"cost": 80,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
-		"uniques": ["Must set up to ranged attack", "No defensive terrain bonus", "[+200]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Must set up to ranged attack", "No defensive terrain bonus", "[+110]% Strength <vs cities> <when attacking>", 
+			"[-1] Sight"],
 		"promotions": ["[Raider Catapult] ability"],
 		"hurryCostModifier": 20
 	}

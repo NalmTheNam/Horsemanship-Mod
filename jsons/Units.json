@@ -44,10 +44,9 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 8,
-		"rangedStrength": 2,
+		"rangedStrength": 7,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
-		"hurryCostModifier": 20,
-		"attackSound": ""
+		"hurryCostModifier": 20
 	}
 ]

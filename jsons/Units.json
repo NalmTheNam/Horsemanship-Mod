@@ -50,6 +50,7 @@
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"uniques": ["Must set up to ranged attack", "No defensive terrain bonus", "[+200]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Raider Catapult] ability"],
 		"hurryCostModifier": 20
 	}
 ]

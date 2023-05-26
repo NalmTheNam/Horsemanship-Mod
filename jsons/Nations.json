@@ -55,7 +55,7 @@
 		"uniqueName": "Pikeman Legion",
 		"uniques": [
 			"[Production] cost of purchasing [Pikeman] units [-20]%",
-			"May buy [Pikeman] units for [3] [Culture] [in all cities] at an increasing price ([2])",
+			"[+25]% Production when constructing [Pikeman] units [in capital]",
 			"Receive free [Pikeman] when you discover [Civil Service]"
 		],
 		"cities": ["Gralpika", "Cavde", "Spearpika"]

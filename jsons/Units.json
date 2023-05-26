@@ -42,7 +42,7 @@
 	{
 		"name": "Raider Catapult",
 		"uniqueTo": "Barbarians",
-		"unitType": "Sword",
+		"unitType": "Siege",
 		"movement": 2,
 		"strength": 8,
 		"rangedStrength": 7,

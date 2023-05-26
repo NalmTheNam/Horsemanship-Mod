@@ -1,8 +1,7 @@
 A funny mod that introduces Horsia
 
 # Testing
-1. Go to the testing branch.
-2. Click the \[<> Code\] button, and download the zip by pressing the "Download ZIP" button.
-3. Extract the zip to your Unciv Data.
-
-The path to your Unciv data if installed with flatpak in Linux or macOS: /home/\[USER\]/.var/app/io.github.yairm210.unciv/data/unciv/
+1. Start Unciv.
+2. Click the "📦 Mods" button.
+3. Click the "Download mod from URL" button.
+4. Copy and paste this to the input field: https://github.com/NalmTheNam/Horsemanship-Mod/tree/testing

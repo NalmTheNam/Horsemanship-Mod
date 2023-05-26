@@ -33,9 +33,20 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
-		"cost": 80,
+		"cost": 100,
 		"obsoleteTech": "Metallurgy",
 		"requiredTech": "Civil Service",
-		"uniques": ["[+60]% Strength <vs [Mounted] units>"]
+		"uniques": ["[+60]% Strength <vs [Mounted] units>"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Raider Catapult",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 7,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"hurryCostModifier": 20
 	}
 ]

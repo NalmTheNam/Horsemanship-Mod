@@ -41,10 +41,12 @@
 	},
 	{
 		"name": "Raider Catapult",
-		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		"unitType": "Siege",
 		"movement": 2,
 		"strength": 8,
 		"rangedStrength": 7,
+		"cost": 80,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"hurryCostModifier": 20

@@ -36,7 +36,7 @@
 		"cost": 100,
 		"obsoleteTech": "Metallurgy",
 		"requiredTech": "Civil Service",
-		"uniques": ["[+60]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+60]% Strength <vs [Mounted] units> <when attacking>"],
 		"hurryCostModifier": 20
 	},
 	{
@@ -49,6 +49,7 @@
 		"cost": 80,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
+		"uniques": ["Must set up to ranged attack", "No defensive terrain bonus", "[+200]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20
 	}
 ]

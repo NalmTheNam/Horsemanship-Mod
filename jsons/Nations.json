@@ -56,7 +56,9 @@
 		"uniques": [
 			"[Production] cost of purchasing [Pikeman] units [-20]%",
 			"[+25]% Production when constructing [Pikeman] units [in capital]",
-			"Receive free [Pikeman] when you discover [Civil Service]"
+			"Receive free [Pikeman] when you discover [Civil Service]",
+			"Gain [4] Influence with a [Pikeman] gift to a City-State",
+			"Cannot build [Mounted] units"
 		],
 		"cities": ["Gralpika", "Cavde", "Spearpika"]
 	}

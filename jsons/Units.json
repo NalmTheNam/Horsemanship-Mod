@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Cowman",
-		"replaces": "Warrior",
+		"replaces": "Scout",
 		"uniqueTo": "Horsia",
 		"unitType": "Scout",
 		"movement": 3,
